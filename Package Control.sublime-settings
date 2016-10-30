@@ -1,0 +1,19 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Cscope",
+		"CTags",
+		"GitGutter",
+		"Glue",
+		"Gutter Themes for SL",
+		"Package Control",
+		"SublimeAStyleFormatter",
+		"Sync Settings",
+		"Vintageous",
+		"WordHighlight"
+	]
+}
