@@ -5,6 +5,8 @@
 	],
 	"installed_packages":
 	[
+		"Clang Format",
+		"CMake",
 		"Cscope",
 		"CTags",
 		"GitGutter",
@@ -13,6 +15,7 @@
 		"Package Control",
 		"SublimeAStyleFormatter",
 		"Sync Settings",
+		"Terminal",
 		"Vintageous",
 		"WordHighlight"
 	]
